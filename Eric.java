@@ -5,6 +5,8 @@ public class Eric {
         System.out.println("Ciao sono eric");
         System.out.println("Ciao sono eric");
         System.out.println("Ciao sono eric");
+
+        System.out.println("Ciao sono isabella");
     }
 
 }
