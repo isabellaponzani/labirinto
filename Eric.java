@@ -8,6 +8,7 @@ public class Eric {
 
         System.out.println("Ciao sono isabella");
         System.out.println("modifica di tommy");
+        System.out.println("Ciao sono isabella2");
     }
 
 }
